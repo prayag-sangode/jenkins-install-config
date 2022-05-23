@@ -6,3 +6,5 @@ Jenkins Installation &amp; Configuration
 `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
 
 `Access ip:8080`
+
+When prompted install suggested plugins
