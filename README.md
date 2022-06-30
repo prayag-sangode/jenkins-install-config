@@ -1,5 +1,11 @@
 # Jenkins Installation on Ubuntu 20.04
-Jenkins Installation &amp; Configuration
+Jenkins Installation Configuration 
+
+Ubuntu
+
+`curl https://raw.githubusercontent.com/prayag-sangode/jenkins-install-config/main/jenkins-install.sh | sudo bash`
+
+Centos/RockyLinux
 
 `curl https://raw.githubusercontent.com/prayag-sangode/jenkins-install-config/main/jenkins-install.sh | sudo bash`
 
