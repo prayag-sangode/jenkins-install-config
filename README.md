@@ -7,7 +7,7 @@ Ubuntu
 
 Centos/RockyLinux
 
-`curl https://raw.githubusercontent.com/prayag-sangode/jenkins-install-config/main/jenkins-install.sh | sudo bash`
+`curl https://raw.githubusercontent.com/prayag-sangode/jenkins-install-config/main/jenkins.sh | sudo bash`
 
 `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
 
