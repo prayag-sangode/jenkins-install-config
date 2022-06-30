@@ -1,4 +1,4 @@
-# Jenkins Installation on Ubuntu 20.04
+# Jenkins Installation
 Jenkins Installation Configuration 
 
 Ubuntu
